@@ -23,3 +23,10 @@ Measures how much liquidity changed during the specified time-frame.
 ## 💎 Holders
 
 Measures how much holders changed during the specified time-frame.
+
+# Roadmap
+
+1. Get coins with higher/lower marketcap than X
+2. Get coins with higher/lower volume than X in a specified time-frame
+3. Experienced Traders - addresses that have proven trading track-record
+4. Filters based on % of supply locked/% of LP tokens locked

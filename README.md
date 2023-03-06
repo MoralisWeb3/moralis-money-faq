@@ -30,3 +30,4 @@ Measures how much holders changed during the specified time-frame.
 2. Get coins with higher/lower volume than X in a specified time-frame
 3. Experienced Traders - addresses that have proven trading track-record
 4. Filters based on % of supply locked/% of LP tokens locked
+5. Savings filters and getting email alerts for filters

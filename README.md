@@ -31,3 +31,8 @@ Measures how much holders changed during the specified time-frame.
 3. Experienced Traders - addresses that have proven trading track-record
 4. Filters based on % of supply locked/% of LP tokens locked
 5. Savings filters and getting email alerts for filters
+
+# Recently shipped
+
+1. Arbitrum integration
+2. More logo support

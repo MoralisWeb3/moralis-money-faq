@@ -33,3 +33,15 @@ We at Moralis Money are working 24/7 on new exciting features to help our client
 ## What is the minimum payout balance?
 
 You need to have at least $200 accumulated balance to get a payout.
+
+## Can I recruit sub-affiliates?
+
+Yes in a few months we plan to allow sub-affiliates.
+
+You will be able to earn 10% of the revenue your subaffiliate brings in.
+
+Let's say you have a friend who has a social media following and they sign up as an affiliate with your special link for new affiliates.
+
+If your friend signs up 300 people they would be earning $10,000 per month and you would be earning $1000 per month.
+
+More info about this in the near future!

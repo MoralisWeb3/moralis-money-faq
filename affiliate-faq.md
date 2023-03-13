@@ -29,3 +29,7 @@ By referring 300 people you are earning around $10,000 in passive income per mon
 All upgrades are counted towards the revenue you refer. 
 
 We at Moralis Money are working 24/7 on new exciting features to help our clients on their journey and as we come up with more and more features we will introduce higher plans which means that your revenue will grow if your referrals upgrade their subscriptions.
+
+# What is the minimum payout balance?
+
+You need to have at least $200 accumulated balance to get a payout.

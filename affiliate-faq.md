@@ -23,3 +23,9 @@ You earn approximately $33 per month for each person you refer.
 Just 30 active referals give you approximately $1,000 extra per month.
 
 By referring 300 people you are earning around $10,000 in passive income per month.
+
+## What happens if the client upgrades their plan?
+
+All upgrades are counted towards the revenue you refer. 
+
+We at Moralis Money are working 24/7 on new exciting features to help our clients on their journey and as we come up with more and more features we will introduce higher plans which means that your revenue will grow if your referrals upgrade their subscriptions.

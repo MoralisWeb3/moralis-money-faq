@@ -8,6 +8,8 @@ If you buy now at $97 - you keep this price forever.
 
 If you like what you see - you should ensure to be set for the bull market by locking in the $97 deal asap.
 
+Also the printer is going brrrr, dollar becoming worthless, inflation etc
+
 ## Full Length Message
 Hello dear community 😍 
 

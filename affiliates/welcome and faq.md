@@ -1,5 +1,11 @@
 # Moralis Affiliate FAQ
 
+## What is Moralis Money
+
+1. Easiest way to discover undervalued coins before they pump
+2. Moralis Money is different from other on-chain analytics platforms because we give simple tools that unlock true alpha, while other platforms waste your time with endless charts and non-actionable on-chain data
+3. Moralis Money is made by people who have a good track record trading altcoins (for example Ivan on Tech was one of the first people to get into MATIC at just a few cents). Other analytics tools are made by data-scientists without trading experience. Their tools don't help you become successful in crypto, they just provide information overload.
+
 ## Why should I become a Moralis Money affiliate?
 
 Moralis Money is a great tool helping thousands of people to navigate the crypto market.

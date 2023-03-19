@@ -4,7 +4,7 @@
 
 TLDR - when Bitcoin reaches 30k we will increase the Pro plan price from $97 to $147.
 
-If you buy now at $97 - you keep this price forever.
+If you buy now at $97 - you keep this price as long as you stay subscribed.
 
 If you like what you see - you should ensure to be set for the bull market by locking in the $97 deal asap.
 

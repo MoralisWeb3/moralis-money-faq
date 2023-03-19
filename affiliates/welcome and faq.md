@@ -2,7 +2,7 @@
 
 ## What is Moralis Money?
 
-1. Easiest way to discover undervalued coins before they pump
+1. Easiest way to discover undervalued coins before they pump or start trending on CoinGecko/Twitter. Moralis Money gives you all the information to see which coins are getting traction before anyone else.
 2. Moralis Money is different from other on-chain analytics platforms because we give simple tools that unlock true alpha, while other platforms waste your time with endless charts and non-actionable on-chain data.
 3. Moralis Money is made by people who have a good track record trading altcoins (for example Ivan on Tech was one of the first people to get into MATIC at just a few cents). Other competitive analytics tools are made by data-scientists without trading experience. Their tools don't help you become successful in crypto, they just provide information overload.
 

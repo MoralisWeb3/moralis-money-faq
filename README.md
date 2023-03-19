@@ -43,12 +43,14 @@ We plan to support even lower time frames in the future.
 2. Get coins with higher/lower volume than X in a specified time-frame
 3. Experienced Traders - addresses that have proven trading track-record
 4. Filters based on % of supply locked/% of LP tokens locked
-5. Savings filters and getting email alerts for filters
+5. Getting email alerts for queries
 
 # Recently shipped
 
-1. Arbitrum integration
-2. More logo support
+1. First iteration of Optimism integration (uniswap done, velodrome pending)
+2. Saving Queries
+3. Arbitrum integration
+4. More logo support
 
 
 # Optimism FAQ

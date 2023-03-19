@@ -36,7 +36,7 @@ Measures how much holders changed during the specified time-frame.
 4. **Extensive Security Coming** - In the coming months we plan to 10x the amount of information we give about the security of each coin in order to ensure that you have as much info as possible to avoid scams and rug pulls.
 5. **10x More Filters** - We are already working hard on new filters, such as `Profitable Whales`, `Profitable Meme Coin Investors` and many many other. The current filters are just a small teaser of what's about to come.
 
-In summary - we are just at the very early stages of our product and we are so excited to all the early adopters that are becoming paid subscribers. We will honor the low prices we offer today if you stay subscribed. We can't wait to share these bull market times with you 🤩📈
+**In summary - we are just at the very early stages of our product and we are so excited to all the early adopters that are becoming paid subscribers. We will honor the low prices we offer today if you stay subscribed. We can't wait to share these bull market times with you 🤩📈**
 
 
 # ⚡️ How fast is new data ingested?

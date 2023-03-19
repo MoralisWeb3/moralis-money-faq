@@ -14,7 +14,7 @@ We provide three key features that create an easy workflow for finding altcoins:
 
 We call this three-feature system **THE HOLY TRINITY 🙏**
 
-## DEMO Video
+## 📺 DEMO Video
 
 Coming soon
 

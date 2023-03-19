@@ -4,15 +4,15 @@
 
 Moralis Money is the easiest way to discover undervalued coins before they pump or start trending on CoinGecko/Twitter. Moralis Money gives you all the information to see which coins are getting traction before anyone else.
 
-## What is the Holy Trinity Methodolody?
+## What are the features that Moralis Money provides?
 
-We call our approach to finding altcoins the Holy Trinity.
+We provide three key features that create an easy workflow for finding altcoins:
 
-Why? Because it consists of three important parts.
+1. **Token Explorer** - this feature is used for finding undervalued altcoins
+2. **Token Shield** - this feature is used in order to avoid scams and rugpulls
+3. **Token Alerts** - this feature is used in order to set up and listening real-time alerts whenever a new opportunity arises
 
-1. Finding undervalued coins using our Token Explorer
-2. Avoiding scams and rugpulls using our Token Shield 
-3. Setting up and listening real-time alerts whenever a new opportunity arises using our Token Alert
+We call this three-feature system **THE HOLY TRINITY 🙏**
 
 ## DEMO Video
 

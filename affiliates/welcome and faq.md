@@ -11,8 +11,8 @@ We call our approach to finding altcoins the Holy Trinity.
 Why? Because it consists of three important parts.
 
 1. Finding undervalued coins using our Token Explorer
-2. Avoiding scams and rugpulls 
-3. Setting up and listening real-time alerts whenever a new opportunity arises
+2. Avoiding scams and rugpulls using our Token Shield 
+3. Setting up and listening real-time alerts whenever a new opportunity arises using our Token Alert
 
 ## DEMO Video
 

@@ -49,3 +49,18 @@ We plan to support even lower time frames in the future.
 
 1. Arbitrum integration
 2. More logo support
+
+
+# Optimism FAQ
+
+## Why are there few coins on Optimism?
+
+There are 2 reasons:
+
+1) We only support Uniswap currently, we are integrating Velodrome which will add more coins
+2) Even when Velodrome is added the number of projects on Optimism will be low compared to other chains as Optimism doesnt have a lot of activity as it is still a new chain.
+
+According to DEXScreener:
+1. Optimism has 508 pairs
+2. Arbitrum has 1750 pairs
+3. Ethereum has 5000 pairs

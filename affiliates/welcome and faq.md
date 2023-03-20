@@ -12,8 +12,6 @@ We provide three key features that create an easy workflow for finding altcoins:
 2. **Token Shield** - this feature is used in order to avoid scams and rugpulls
 3. **Token Alerts** - this feature is used in order to set up and listening real-time alerts whenever a new opportunity arises
 
-We call this three-feature system **THE HOLY TRINITY 🙏**
-
 ## 📺 DEMO Video
 
 Coming soon

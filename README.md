@@ -28,6 +28,10 @@ Measures how much liquidity changed during the specified time-frame.
 
 Measures how much holders changed during the specified time-frame.
 
+# When are more filters coming??
+
+We are working on new filters every day - expect new filers to pop up regularly!
+
 # Can I adjust the definition of the filters, introduce own filters etc?
 
 Right now - not. In the future - HELL YEA 🤩🔥

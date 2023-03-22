@@ -28,6 +28,10 @@ Measures how much liquidity changed during the specified time-frame.
 
 Measures how much holders changed during the specified time-frame.
 
+# Can I adjust the definition of the filters, introduce own filters etc?
+
+Right now - not. In the future - HELL YEA 🤩🔥
+
 # 📈 Why will Moralis Money 10x in value over the coming months?
 
 1. **Altcoin season coming** - first and foremost, Moralis Money will automatically become more valuable as the bull market returns and altcoins start flying. The tools we provide will become even more invaluable when the potential returns are 10-100x higher in an altcoin season in comparison to today. 

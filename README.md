@@ -108,7 +108,7 @@ https://twitter.com/Morningstar_vc/status/1639237823768166403
 
 ## Is Moralis Money easy to use? Will I get instructions?
 
-Absolute, you can learn how to use Moralis Money in 10 minutes and you can reach our support any time.
+Absolutely, you can learn how to use Moralis Money in 10 minutes and you can reach our support any time.
 
 We will also provide instructions and manuals.
 

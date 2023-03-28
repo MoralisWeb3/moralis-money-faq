@@ -90,3 +90,39 @@ According to DEXScreener:
 1. Optimism has 508 pairs
 2. Arbitrum has 1750 pairs
 3. Ethereum has 5000 pairs
+
+
+# Pricing/Checkout FAQ
+
+## Can Moralis Money make me real money?
+
+If you learn the product, and use it daily you will definitely see great opportunities in the crypto markets!
+
+https://twitter.com/DDhardesh/status/1640637789019467776
+
+## Is Moralis Money really used by smart money and crypto funds?
+
+Absolutely, top crypto VCs and funds use Moralis Money every day.
+
+https://twitter.com/Morningstar_vc/status/1639237823768166403
+
+## Is Moralis Money easy to use? Will I get instructions?
+
+Absolute, you can learn how to use Moralis Money in 10 minutes and you can reach our support any time.
+
+We will also provide instructions and manuals.
+
+## How is Moralis Money different from other on-chain analytics platforms?
+
+1. Moralis Money is different from other on-chain analytics platforms because we give simple tools that unlock true alpha. The information we provide is easy to apply in the markets and integrate into your daily trading. **Other platforms that try to compete with us often waste your time with endless charts and other non-actionable on-chain data.**
+2. Moralis Money is made by people who have a good track record trading altcoins (for example Ivan on Tech was one of the first people to get into MATIC at just a few cents). **Other platforms that try to compete with us often are made by data-scientists without trading experience. Their tools don't help you become successful in crypto, they just provide information overload.**
+
+## Can you really make money in crypto?
+
+Absolutely, MATIC did over 100x during the past few years, same with Solana, AAVE and many other altcoins.
+
+As long as you are early, and have the correct tools - you have great chance of making it BIG.
+
+Crypto is the only industry where a 100-500x is possible within just a few years.
+
+So if you want to make a real difference for yourself in a short period of time - you have arrived at the right place 🙌

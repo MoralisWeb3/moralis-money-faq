@@ -129,4 +129,27 @@ So if you want to make a real difference for yourself in a short period of time 
 
 # Using Moralis Money 
 
-TODO
+We get a lot of questions about how to use Moralis Money. We have an in-depth tutorial and instruction manual in the works and it will be done soon.
+
+In the meanwhile, we would like to address some common questions about day to day use of Moralis Money here.
+
+## Do I need to buy some altcoin fast? I dont want to miss any opportunity and I want to put Moralis Money to use already today by buying something!!
+
+This depends on your experience. 
+
+The best traders first learn the tool well before making any real trades and risking real money.
+
+A common strategy we see successful users follow is to not make any fast decisions at the start and instead get a feel for the tool, the market, how the coins behave and how the filters work. 
+
+This way they build the internal confidence and develop an understanding of the altcoin market.
+
+A good strategy could be to make fake trades on paper to begin with, and see how the coins perform before deploying real capital.
+
+At the end of the day - it is all about risk management. You can be the best trader in the world, make 1000 great trades and lose it all in one bad trade if you dont manage risk.
+
+Time is on your side. 
+
+There is always something that will pump tomorrow, you don't have to catch all pumps.
+
+So education and practice first - risk taking later.
+

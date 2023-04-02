@@ -32,6 +32,16 @@ Measures how much holders changed during the specified time-frame.
 
 We are working on new filters every day - expect new filers to pop up regularly!
 
+# Is Moralis Money fully automatic or is there any manual coin ranking?
+
+Moralis Money is purely automatic, we collect data from the blockchain and different third party APIs and present the data according to the filters and sorting criteria you specify in the UI.
+
+We don't do any manual processing of the data or any manual coin ranking.
+
+We do evolve the automatic algorithms and add more filters and sorting criteria.
+
+The changes we do apply to all coins.
+
 # Can I adjust the definition of the filters, introduce own filters etc?
 
 Right now - not. In the future - HELL YEA 🤩🔥

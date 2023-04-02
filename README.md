@@ -133,26 +133,6 @@ We get a lot of questions about how to use Moralis Money. We have an in-depth tu
 
 In the meanwhile, we would like to address some common questions about day to day use of Moralis Money here.
 
-## Which filters do you recommend to use? 🤔
-
-It all depends on your strategy.
-
-If you are new to using Moralis Money you can try some of the pre-made filters we showcase on the home page.
-
-<img width="1067" alt="Screenshot 2023-04-02 at 21 46 35" src="https://user-images.githubusercontent.com/11097108/229375482-62403219-1068-4a84-b67e-319b3154d78d.png">
-
-For example by using the `Coin Age` filter you can see which coins are minted today, yesterday, during the last week etc
-
-You can then apply `Security Score` filter to filter out all the potential scams.
-
-We will soon push many many more filters and do more practical demos of how everything works 🙌
-
-## Which chains do you recommend to use? ⛓️
-
-Most people use Ethereum to learn the tool and get started because it has the most coins and the most activity.
-
-However there are many opportunities on other chains so feel free to explore all of them 🤩
-
 ## Do I need to buy some altcoin fast? I dont want to miss any opportunity and I want to put Moralis Money to use already today by getting into some altcoins ASAP!! 😜
 
 This depends on your experience. 
@@ -172,6 +152,27 @@ Time is on your side.
 There is always something that will pump tomorrow, you don't have to catch all pumps.
 
 So education and practice first - risk taking later.
+
+
+## Which filters do you recommend to use? 🤔
+
+It all depends on your strategy.
+
+If you are new to using Moralis Money you can try some of the pre-made filters we showcase on the home page.
+
+<img width="1067" alt="Screenshot 2023-04-02 at 21 46 35" src="https://user-images.githubusercontent.com/11097108/229375482-62403219-1068-4a84-b67e-319b3154d78d.png">
+
+For example by using the `Coin Age` filter you can see which coins are minted today, yesterday, during the last week etc
+
+You can then apply `Security Score` filter to filter out all the potential scams.
+
+We will soon push many many more filters and do more practical demos of how everything works 🙌
+
+## Which chains do you recommend to use? ⛓️
+
+Most people use Ethereum to learn the tool and get started because it has the most coins and the most activity.
+
+However there are many opportunities on other chains so feel free to explore all of them 🤩
 
 ## What coins are you buying? I want to buy what you buy! 🤑
 

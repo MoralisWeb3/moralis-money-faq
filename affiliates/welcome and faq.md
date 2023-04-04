@@ -10,7 +10,7 @@ We provide three key features that create an easy workflow for finding altcoins:
 
 1. **Token Explorer** - this feature is used for finding undervalued altcoins
 2. **Token Shield** - this feature is used in order to avoid scams and rugpulls
-3. **Token Alerts** - this feature is used in order to set up and listening real-time alerts whenever a new opportunity arises
+3. **Token Alerts (coming soon)** - this feature is used in order to set up and listening real-time alerts whenever a new opportunity arises
 
 ## 📺 DEMO Video
 

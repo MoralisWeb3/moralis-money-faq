@@ -1,5 +1,49 @@
 # Moralis Affiliate FAQ
 
+## 👋 How to get started?
+
+**Where do I sign up?**
+
+Go to https://affiliate.moralismoney.com and sign up.
+
+**Where do I get my affiliate link?**
+
+You can get your affiliate link here: 
+1. New UI https://affiliate.moralismoney.com/p/new/programs/moralis-money/assets/
+2. Old UI https://affiliate.moralismoney.com/p/programs/moralis-money/assets/
+
+**Why are there two UIs?** 
+
+The third-party affiliate system we use is handling everything around the UI and they are currently building a new version of their system that you can use already for some purposes like fetching and editing your affiliate link.
+
+**Where do I see stats?**
+
+You can see real-time stats here: https://affiliate.moralismoney.com/p/reporting/
+
+## 💸 How do I get my first paid users?
+
+**Drive traffic to the website - make people use the free version**
+
+When someone clicks on your link we put a cookie on their computer that will stay there for 45 days.
+
+This means that if someone tries the free version of Moralis Money and likes it so much that they upgrade their account within 45 days - you will get the comission!
+
+Our product is very good and therefore as long as you make people click your link, explain the product to them, make them experiment with the product on their own you are likely to drive sales. People will try the free version, see the magic, see the limits of the free version and upgrade.
+
+Therefore - you don't have to sell hard, just get them to try the free version! 🙌
+
+**How to drive traffic?**
+
+1. Create content on YouTube, Twitter and other social media showcasign Moralis Money and introduce it to new people who have never heard about it before
+2. Be active in Telegram/Discord groups for altcoin traders. This is a very effective strategy as you know that those people are trading altcoins. Share your affiliate links in all such groups.
+3. Create SEO content.
+
+At the end of the day it is about building some kind of audience or becoming part of an active community of altcoin traders.
+
+## What are the terms? 
+
+Please read: https://affiliate.moralismoney.com/programs/moralis-money/tos/
+
 ## 🤔 What is Moralis Money?
 
 Moralis Money is the easiest way to discover undervalued coins before they pump or start trending on CoinGecko/Twitter. Moralis Money gives you all the information to see which coins are getting traction before anyone else.
@@ -14,7 +58,7 @@ We provide three key features that create an easy workflow for finding altcoins:
 
 ## 📺 DEMO Video
 
-Coming soon
+[Coming soon](https://www.youtube.com/watch?v=8fzV9bO56ow)
 
 ## 😎 How is Moralis Money different from other "On-Chain Analytics" websites and services? 
 1. Moralis Money is different from other on-chain analytics platforms because we give simple tools that unlock true alpha. The information we provide is easy to apply in the markets and integrate into your daily trading. **Other platforms that try to compete with us often waste your time with endless charts and other non-actionable on-chain data.**

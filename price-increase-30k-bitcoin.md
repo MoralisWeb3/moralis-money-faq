@@ -2,7 +2,7 @@
 
 ## TLDR
 
-TLDR - when Bitcoin reaches 30k we will increase the Pro plan price from $97 to $147.
+TLDR - when Bitcoin reaches 30k we will increase the Pro plan price from $97 to $197.
 
 If you buy now at $97 - you keep this price as long as you stay subscribed.
 
@@ -21,7 +21,7 @@ Moralis Money is getting traction like crazy, as crypto is coming out of the bea
 
 We reward our early adopters and supports by honoring the existing price forever as long as you keep your subscription.
 
-For all new users the price for the existing pro plan will just form 97 to 147 dollars when Bitcoin reaches 30k.
+For all new users the price for the existing pro plan will just form 97 to 197 dollars when Bitcoin reaches 30k.
 
 
 ## Can I pay with crypto?

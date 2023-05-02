@@ -110,6 +110,13 @@ Our mission to help people navigate these markets and provide all the tools nece
 
 If you are able to help us on this mission we would love to reward you via our affiliate program!
 
+## ❤️ Ethical Guidelines
+Please keep within the following guidelines when promoting Moralis Money. 
+
+- Be honest. Never use fake testimonials or fake returns when promoting the product. 
+- Make it clear that your success with the tool does not guarantee success for anyone else.
+- Don't buy ads using Moralis trademarks (name or logo) 
+- Be honest with the risk of investing in altcoins. Altcoins can yield very high return, but are also very risky and you can lose your entire investment.  
 
 ## What are the terms? 
 

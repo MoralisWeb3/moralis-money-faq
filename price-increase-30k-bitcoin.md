@@ -1,5 +1,11 @@
 # Price Increase Announcement
 
+> **Warning**
+> 
+> BTC reached 30k around April 12. Current Pro plan price is **$197**.
+>
+> [**BUY NOW**](https://moralismoney.com/pricing) to lock in $197 price before [another price increase when BTC reaches 40k](https://github.com/YosephKS/moralis-money-faq/blob/main/price-increase-40k-bitcoin.md).
+
 ## TLDR
 
 TLDR - when Bitcoin reaches 30k we will increase the Pro plan price from $97 to $197.
@@ -30,7 +36,7 @@ Yes you can pay with crypto for a YEARLY subscription.
 
 You get 15% discount if you do.
 
-Email hello@moralis.io
+Email money@moralis.io
 
 # Back to work
 

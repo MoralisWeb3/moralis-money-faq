@@ -7,7 +7,9 @@ This is the documentation explaining the structure of the payload.
 
 # Query Alert Webhook
 
-TODO: Add docs
+TODO: Add docs 
+
+Typescript Types?
 
 # Token Alert Webhook
 

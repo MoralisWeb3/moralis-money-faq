@@ -388,6 +388,9 @@ Ngrok will provide a Forwarding URL, which looks like http://1234567890ab.ngrok.
 
 Use this URL as your webhook URL in Moralis Money UI.
 
+![Screenshot 2023-05-18 at 7 19 51 PM](https://github.com/gabkk/moralis-money-faq/assets/10153882/bec9f186-4995-40ea-8a48-f24cb349640c)
+
+
 <br>
 
 With ngrok running, your local server is now publicly accessible from the internet.

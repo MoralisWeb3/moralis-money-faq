@@ -22,6 +22,6 @@ To request manual verification please email support@moralis.io and describe your
 
 ## Does this verification protect against all scams?
 
-As always - it's impossible to guarantee anything in crypto, this is an extra level of vetting but users should always do their own research before taking any decision.
+As always - it's impossible to guarantee anything in crypto, this is an extra level of vetting where the Moralis Team speaks to the token team and gets regular updates on their progress. All users should always do their own research before taking any decision.
 
 

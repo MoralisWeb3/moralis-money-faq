@@ -12,4 +12,4 @@ There are two ways to get verified:
 1. **Automatic verification** - if a token has a long track record with many daily users, deep liquidity, thousands of holders, and transactions we may verify it automatically.
 2. **Manual verification** - available to all tokens and requires quarterly verification in the form of a call with the Moralis Team in which we assess if the token is eligible for manual verification. The cost for this is $2,500 per month and the minimum time we accept is 6 months to ensure that the token project is committed to its long-term success.
 
-To request manual verification please email support@moralis.io and describe your project.
+To request manual verification please email support@moralis.io and describe your project. Ensure that the subject line of the email is `TOKEN VERIFICATION REQUEST` (this is important).

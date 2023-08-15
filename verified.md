@@ -3,7 +3,7 @@
 
 ## What are verified tokens?
 
-Verified tokens are manually selected by the Moralis team in order to give an extra layer of vetting for our users and build trust in the altcoin ecosystem.
+Verified tokens are manually selected by the Moralis team in order to give an extra layer of vetting for our users and build trust in the altcoin ecosystem. Established coins can get automatically verified as well.
 
 The verified tokens have a special badge in our UI.
 

@@ -32,7 +32,7 @@ Tokens that have proven their worth over time tend to fare better in our system.
 In a nutshell: enhanced safety and thorough due diligence. Our score equips investors with insights that go beyond the surface, reducing the likelihood of taking unnecessary risks.
 
 #### Q6: Can everyone access the Advanced Security Score?
-The Advanced Security Score is reserved for our Starter, Pro, and Enterprise members, providing them with the most comprehensive token evaluations in the market.
+The Advanced Security Score is reserved for our Starter, Pro, and Enterprise members, providing them with the most comprehensive token evaluations in the market. [Upgrade](https://moralismoney.com/pricing) your plan and hit the "Hide potential scams" toggle to turn it on.
 
 #### Q7: Can free users still use DextScore?
 Yes. Free users can still use the basic Dext Score in the filters. For better security and risk management, we strongly recommend using the Advanced Security Score.
